@@ -8,3 +8,4 @@ cleanup formatting at 07/03/2025 18:36:55
 add notes on arrays at 07/03/2025 19:10:03
 update readme formatting at 07/04/2025 12:39:58
 update readme formatting at 07/04/2025 16:42:52
+update study log at 07/04/2025 08:26:33
