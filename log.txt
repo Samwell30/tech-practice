@@ -15,3 +15,4 @@ update interview prep notes at 07/06/2025 09:57:00
 review git commands at 07/09/2025 13:21:01
 add practice problem: fibonacci at 07/09/2025 13:58:13
 add practice problem: fibonacci at 07/09/2025 11:51:57
+update study log at 07/09/2025 09:26:06
