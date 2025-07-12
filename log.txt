@@ -16,3 +16,4 @@ review git commands at 07/09/2025 13:21:01
 add practice problem: fibonacci at 07/09/2025 13:58:13
 add practice problem: fibonacci at 07/09/2025 11:51:57
 update study log at 07/09/2025 09:26:06
+add comments to js examples at 07/12/2025 16:32:21
