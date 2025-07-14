@@ -24,3 +24,4 @@ review git commands at 07/13/2025 14:31:54
 cleanup formatting at 07/13/2025 18:37:02
 refactor sorting example at 07/13/2025 11:28:25
 refactor sorting example at 07/14/2025 15:23:15
+practice linked list question at 07/14/2025 08:13:03
