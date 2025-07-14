@@ -21,3 +21,4 @@ add practice problem: fibonacci at 07/12/2025 08:31:45
 review git commands at 07/12/2025 09:24:48
 update study log at 07/12/2025 08:56:13
 review git commands at 07/13/2025 14:31:54
+cleanup formatting at 07/13/2025 18:37:02
