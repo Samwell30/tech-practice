@@ -32,3 +32,4 @@ cleanup formatting at 07/15/2025 16:14:41
 add comments to js examples at 07/15/2025 11:05:29
 add notes on arrays at 07/15/2025 18:50:06
 update interview prep notes at 07/17/2025 08:08:57
+add notes on arrays at 07/18/2025 14:26:50
