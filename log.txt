@@ -36,3 +36,4 @@ add notes on arrays at 07/18/2025 14:26:50
 update readme formatting at 07/18/2025 14:00:18
 review git commands at 07/19/2025 09:11:55
 review git commands at 07/19/2025 13:25:13
+add notes on arrays at 07/19/2025 10:30:34
