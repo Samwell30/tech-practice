@@ -40,3 +40,4 @@ add notes on arrays at 07/19/2025 10:30:34
 update interview prep notes at 07/20/2025 12:59:03
 refactor sorting example at 07/20/2025 19:13:45
 practice linked list question at 07/20/2025 17:41:18
+update study log at 07/21/2025 15:19:33
