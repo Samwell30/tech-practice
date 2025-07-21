@@ -38,3 +38,4 @@ review git commands at 07/19/2025 09:11:55
 review git commands at 07/19/2025 13:25:13
 add notes on arrays at 07/19/2025 10:30:34
 update interview prep notes at 07/20/2025 12:59:03
+refactor sorting example at 07/20/2025 19:13:45
