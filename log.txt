@@ -60,3 +60,4 @@ practice linked list question at 08/04/2025 17:12:25
 add notes on arrays at 08/04/2025 13:37:21
 add comments to js examples at 08/08/2025 17:48:44
 update readme formatting at 08/08/2025 09:45:01
+add practice problem: fibonacci at 08/08/2025 09:28:04
