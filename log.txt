@@ -71,3 +71,4 @@ update readme formatting at 08/10/2025 11:54:34
 update interview prep notes at 08/10/2025 18:13:00
 practice linked list question at 08/10/2025 15:55:52
 review git commands at 08/11/2025 10:57:26
+add practice problem: fibonacci at 08/15/2025 18:16:56
